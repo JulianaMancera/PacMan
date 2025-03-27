@@ -1,6 +1,5 @@
 import javax.swing.JFrame;
 
-
 public class PacManGame{
     public static void main(String[] args) throws Exception {
         int rowCount = 21;
